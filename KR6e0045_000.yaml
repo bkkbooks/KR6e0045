@@ -1,0 +1,17 @@
+canonical_identifier: bkk:krp/KR6e0045/t/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 文殊師利發願經
+  edition:
+    short: t
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T10/T10n0296.xml
+    old_id: T10n0296
+hash: sha256:bc17b5209aced70622458d727e7840cac28190e0cdd5b66166c69b9fbe5d6a44

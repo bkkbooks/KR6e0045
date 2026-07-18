@@ -22,7 +22,7 @@ assets:
   - {seq: 0, filename: KR6e0045_000-T.yaml, hash: 'sha256:bc17b5209aced70622458d727e7840cac28190e0cdd5b66166c69b9fbe5d6a44'}
   - {seq: 1, filename: KR6e0045_001-T.yaml, hash: 'sha256:dcaee7e09c4c59fe72f6ce2ef3dbb69ad5f1183f6753003d9c5418d57b0bad8c'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6e0045_000-T.markers.yaml, hash: 'sha256:77a2f279ef0d9a48e18d5578137546dd16f1a54fe0a49637629832122610ffed'}
+  - {seq: 0, role: markers, filename: assets/KR6e0045_000-T.markers.yaml, hash: 'sha256:96235a6c1e3cb6ff8a18e7d0911664d13f757512e4106b45383b5d6933406a83'}
   - {seq: 1, role: markers, filename: assets/KR6e0045_001-T.markers.yaml, hash: 'sha256:0403af455d09b908c11a7bb50d496afb447918c8265fd501dc35f2fe7a0686d2'}
 table_of_contents:
 - ref:
@@ -35,4 +35,4 @@ table_of_contents:
   label: 文殊師利發願經
   type: juan
   level: 1
-hash: sha256:ae48180578250495977a64092c1dfc21f29238a8959a4f7b262b4e49da97ab17
+hash: sha256:02f224003e7d2acb807df99564233456f6ce632ea4590bfc4d5fda6e3ea2329b

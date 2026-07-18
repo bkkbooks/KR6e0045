@@ -36,7 +36,7 @@ assets:
   - {seq: 0, filename: KR6e0045_000.yaml, hash: 'sha256:bc17b5209aced70622458d727e7840cac28190e0cdd5b66166c69b9fbe5d6a44'}
   - {seq: 1, filename: KR6e0045_001.yaml, hash: 'sha256:2afaf043b157ecc7bd94579340a1e973c00d7b94e9f92f6410114835b00b9488'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6e0045_000.markers.yaml, hash: 'sha256:0aed677cd3510ccef5affc4169f8caf4348d6fd1cf413c1b05cbe9a9372545c7'}
+  - {seq: 0, role: markers, filename: assets/KR6e0045_000.markers.yaml, hash: 'sha256:c1f95916fb5d7485a543f9af48c32ffdf62d1724a0fb5ee1223308bb92e7d26f'}
   - {seq: 1, role: markers, filename: assets/KR6e0045_001.markers.yaml, hash: 'sha256:cfa7b3ca63deb35de4732c9e182532d2d4830f8d7d12d30d9104ef21775733da'}
 table_of_contents:
 - ref:
@@ -49,7 +49,7 @@ table_of_contents:
   label: 文殊師利發願經
   type: juan
   level: 1
-hash: sha256:ddcf808f49e422125bc73bafc59149b33566a98f0c88456050d91501c1487e7e
+hash: sha256:f3c346b57982a0642e0f4a055a8eb68ed4c67ed3c27842995dbc12fcb44b86a9
 mappings:
 - canonical_identifier: bkk:mapping/variant-fold-v1
   hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
